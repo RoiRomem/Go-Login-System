@@ -1,0 +1,22 @@
+# Ignore Firebase credentials file
+credentials.json
+
+# Ignore any other sensitive files (optional, add others as needed)
+*.json
+*.env
+
+# Ignore directories related to build artifacts, temporary files, etc.
+# For example, Go binary files:
+bin/
+# Ignore Go build cache
+*.a
+*.out
+*.log
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+
+# Ignore operating system files
+.DS_Store      # macOS
+Thumbs.db      # Windows
