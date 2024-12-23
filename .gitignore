@@ -1,6 +1,3 @@
-# Ignore Firebase credentials file
-credentials.json
-
 # Ignore any other sensitive files (optional, add others as needed)
 *.json
 *.env
